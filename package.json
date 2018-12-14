@@ -1,0 +1,14 @@
+{
+  "name": "safety-worker",
+  "version": "0.0.0",
+  "description": "Service worker unregistering old service worker",
+  "main": "safety-worker.js",
+  "keywords": [
+    "safety-worker",
+    "service",
+    "worker",
+    "unregister"
+  ],
+  "author": "Igor Katsuba <katsuba.igor@gmail.com>",
+  "license": "MIT"
+}
