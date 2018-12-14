@@ -10,5 +10,13 @@
     "unregister"
   ],
   "author": "Igor Katsuba <katsuba.igor@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKatsuba/safety-worker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IKatsuba/safety-worker/issues"
+  },
+  "homepage": "https://github.com/IKatsuba/safety-worker#readme"
 }
